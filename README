@@ -1,4 +1,4 @@
-Usage: drush make https://raw.github.com/kratocz/Drupal-platform-makefiles/6.x-1.x/make.ini [DIR]
+Usage: drush make https://raw.github.com/kratocz/drush-make-pressflow-6/master/make.ini [DIR]
 
 * [DIR]: Specified directory instead of current directory where the platform will be placed (optional).
 
